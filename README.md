@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riffat Hasan</h1>
 <h3 align="center">A professional frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **PHP, Angular**
+- 🌱 I’m currently learning Backend Development
 
 - 💬 Ask me about **REACT, Tailwind CSS, HTML, CSS**
 
